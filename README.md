@@ -1,5 +1,5 @@
 # testrepo
 
-## Editing te file
+## Editing tHe file
 
 It's a markdown file in this repository.
